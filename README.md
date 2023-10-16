@@ -1,5 +1,8 @@
 # Mental Health Chatbot
 
+## Note:
+The ipynb file is showing error in output because the API key was discbled before i could create a demo of it to upload on Github. Anybody with a API kay can use it properly.
+
 ## Introduction
 
 Welcome to the Mental Health Chatbot project, developed during a Hackathon held at IIIT Nagpur and organized by Crisper. In a world where mental health issues are on the rise, this innovative chatbot is designed to provide essential support and resources for individuals in need. Leveraging OpenAI's API, this chatbot offers a wide range of features to promote mental well-being.
